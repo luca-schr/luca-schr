@@ -47,7 +47,9 @@ Dépôt : Local
 
 ---
 
-## Langages
+## Compétences
+
+**Interface**
 
 <p>
   <img src="https://img.shields.io/badge/HTML-0096F0?style=flat-square&logo=html5&logoColor=white" alt="HTML" />
@@ -56,17 +58,44 @@ Dépôt : Local
   <img src="https://img.shields.io/badge/Tailwind-0096F0?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind" />
 </p>
 
+**Langages**
+
 <p>
   <img src="https://img.shields.io/badge/JavaScript-3AD4F0?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript" />
   <img src="https://img.shields.io/badge/TypeScript-3AD4F0?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/React-3AD4F0?style=flat-square&logo=react&logoColor=white" alt="React" />
-  <img src="https://img.shields.io/badge/Vue-3AD4F0?style=flat-square&logo=vuedotjs&logoColor=white" alt="Vue" />
+  <img src="https://img.shields.io/badge/Python-3AD4F0?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/C%23-3AD4F0?style=flat-square&logo=csharp&logoColor=white" alt="C#" />
 </p>
 
+**Frameworks**
+
 <p>
+  <img src="https://img.shields.io/badge/React-0096F0?style=flat-square&logo=react&logoColor=white" alt="React" />
+  <img src="https://img.shields.io/badge/Vue-0096F0?style=flat-square&logo=vuedotjs&logoColor=white" alt="Vue" />
   <img src="https://img.shields.io/badge/Node.js-0096F0?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Python-0096F0?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/C%23-0096F0?style=flat-square&logo=csharp&logoColor=white" alt="C#" />
+</p>
+
+**CMS**
+
+<p>
+  <img src="https://img.shields.io/badge/WordPress-3AD4F0?style=flat-square&logo=wordpress&logoColor=white" alt="WordPress" />
+  <img src="https://img.shields.io/badge/PrestaShop-3AD4F0?style=flat-square&logo=prestashop&logoColor=white" alt="PrestaShop" />
+</p>
+
+**Données**
+
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-0096F0?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MySQL-0096F0?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/SQL%20Server-0096F0?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
+  <img src="https://img.shields.io/badge/MongoDB-0096F0?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+</p>
+
+**Outillage**
+
+<p>
+  <img src="https://img.shields.io/badge/Docker-3AD4F0?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-3AD4F0?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
 </p>
 
 ---

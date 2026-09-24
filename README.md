@@ -2,11 +2,11 @@
   <img src="./assets/logo.png" width="88" alt="Luca Schr" />
 </p>
 
-<h1 align="center">Luca Schr</h1>
+<h1 align="center">Lucas Schrever</h1>
 
 <p align="center">
-  Interfaces web, produits SaaS et sites.<br/>
-  React, TypeScript, et le framework qui convient au projet.
+  J'interviens dans le développement d'interfaces modernes <br/>
+  pour des sites web, applications et logiciels.
 </p>
 
 <p align="center">
@@ -37,13 +37,13 @@ Refonte du site vitrine de l’agence.
 
 <img src="./assets/logo.png" width="40" alt="Projets personnels" />
 
-**Jobseka** · React, .NET  
+**[Jobseka](https://github.com/luca-schr/jobseka)** · React, .NET  
 Plateforme de recrutement, dans l’esprit d’Indeed.  
-Dépôt : à venir
+Dépôt : Local
 
-**Task Attack** · Svelte, Express  
+**[Task Attack](https://github.com/luca-schr/taskAttack)** · Svelte, Express  
 Gestionnaire de tâches, en cours.  
-Dépôt : à venir
+Dépôt : Local
 
 ---
 
@@ -73,4 +73,4 @@ Dépôt : à venir
 
 ## Contact
 
-`à renseigner`
+[LinkedIn](https://www.linkedin.com/in/lucas-schrever/) · [Portfolio](https://lucas-schrever.vercel.app/) · [lucas.schrever@outlook.com](mailto:lucas.schrever@outlook.com)

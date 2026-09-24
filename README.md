@@ -5,49 +5,49 @@
 <h1 align="center">Lucas Schrever</h1>
 
 <p align="center">
-  J'interviens dans le développement d'interfaces modernes <br/>
-  pour des sites web, applications et logiciels.
+  I build modern interfaces <br/>
+  for websites, applications, and software.
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/disponible-0096F0?style=flat-square" alt="disponible" />
+  <img src="https://img.shields.io/badge/available-0096F0?style=flat-square" alt="available" />
   <img src="https://img.shields.io/badge/France-3AD4F0?style=flat-square" alt="France" />
 </p>
 
 ---
 
-## Projets
+## Projects
 
 <img src="./assets/jane.svg" height="32" alt="Jane" />
 
 **[Jane App](https://jane-app.fr)** · React, Nest.js  
-Contribution aux nouvelles fonctionnalités de la plateforme SaaS.
+Contributing new features to the SaaS platform.
 
 **[Jane Website](https://jane-energie.fr)** · Next.js, WordPress  
-Refonte du site vitrine et du blog.
+Full redesign of the marketing site and blog.
 
 <br/>
 
 <img src="./assets/shin.png" height="28" alt="Shin Agency" />
 
 **[Shin Agency](https://shin-agency.com)**  
-Refonte du site vitrine de l’agence.
+Full redesign of the agency website.
 
 <br/>
 
-<img src="./assets/logo.png" width="40" alt="Projets personnels" />
+<img src="./assets/logo.png" width="40" alt="Personal projects" />
 
 **[Jobseka](https://github.com/luca-schr/jobseka)** · React, .NET  
-Plateforme de recrutement, dans l’esprit d’Indeed.  
-Dépôt : Local
+Indeed-style recruitment platform.  
+Repository: local
 
 **[Task Attack](https://github.com/luca-schr/taskAttack)** · Svelte, Express  
-Gestionnaire de tâches, en cours.  
-Dépôt : Local
+Task manager, in progress.  
+Repository: local
 
 ---
 
-## Compétences
+## Skills
 
 **Interface**
 
@@ -58,7 +58,7 @@ Dépôt : Local
   <img src="https://img.shields.io/badge/Tailwind-0096F0?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind" />
 </p>
 
-**Langages**
+**Languages**
 
 <p>
   <img src="https://img.shields.io/badge/JavaScript-3AD4F0?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript" />
@@ -82,7 +82,7 @@ Dépôt : Local
   <img src="https://img.shields.io/badge/PrestaShop-3AD4F0?style=flat-square&logo=prestashop&logoColor=white" alt="PrestaShop" />
 </p>
 
-**Données**
+**Data**
 
 <p>
   <img src="https://img.shields.io/badge/PostgreSQL-0096F0?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
@@ -91,7 +91,7 @@ Dépôt : Local
   <img src="https://img.shields.io/badge/MongoDB-0096F0?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
 </p>
 
-**Outillage**
+**Tooling**
 
 <p>
   <img src="https://img.shields.io/badge/Docker-3AD4F0?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
